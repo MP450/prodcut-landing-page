@@ -1,2 +1,2 @@
 # prodcut-landing-page
-Product landing page for TheOdipProject
+Product landing page for TheOdimProject
